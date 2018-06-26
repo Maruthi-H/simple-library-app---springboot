@@ -1,6 +1,6 @@
 package com.maruthi.spring5webapp.bootstrap;
 
-import org.junit.validator.PublicClassValidator;
+
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
